@@ -17,5 +17,5 @@ Aplicativo desenvolvido com Flutter (https://flutter.dev)
 [![Watch the video](https://img.youtube.com/vi/4HDDCkl-B2A/maxresdefault.jpg)](https://www.powtoon.com/s/foKrVvDUdWX/1/m/s)
 
 # Vídeo de Utilização do App
-[![Watch the video](https://img.youtube.com/vi/4HDDCkl-B2A/maxresdefault.jpg)](https://www.youtube.com/watch?v=aXAPLT9KECc&t)
+[![Watch the video](https://img.youtube.com/vi/aXAPLT9KECc/maxresdefault.jpg)](https://www.youtube.com/watch?v=aXAPLT9KECc)
 
