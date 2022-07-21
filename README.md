@@ -1,6 +1,6 @@
-# app_projeto_vida
+# Aplicativo Projeto de Vida
 
-A new Flutter application.
+O Aplicativo Projeto de vida foi desenvolvido para apoio às aulas do componente curricular de mesmo nome na Escola Técnica Estadual Maria Eduarda Ramos de Barros, e como requisito parcial da disciplina Fundamentos de Programação Aplicada do programa de mestrado da Universidade Federal Rural de Pernambuco.
 
 ## Getting Started
 
