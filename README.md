@@ -14,7 +14,7 @@ Aplicativo desenvolvido com Flutter (https://flutter.dev)
 ![telas](https://user-images.githubusercontent.com/103005868/180216446-b32ef600-658d-456a-9d93-e77c61f44967.png)
 
 # Vídeo de Apresentação do App
-[![Watch the video](https://img.youtube.com/vi/zDGxAcvSzCo/maxresdefault.jpg)](https://www.powtoon.com/s/foKrVvDUdWX/1/m/s)
+[![Watch the video](https://img.youtube.com/vi/4HDDCkl-B2A/maxresdefault.jpg)](https://www.powtoon.com/s/foKrVvDUdWX/1/m/s)
 
 # Vídeo de Utilização do App
 [![Watch the video](https://img.youtube.com/vi/4HDDCkl-B2A/maxresdefault.jpg)](https://www.youtube.com/watch?v=aXAPLT9KECc&t)
